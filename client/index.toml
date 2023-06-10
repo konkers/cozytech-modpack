@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ca4c66e6e0c96f139fb996915277a0a417a55fc5ffa8810d0aaa5dd07080399c"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "728d46b605885ad0ec57968f7d6b1c926d93fcca3b235dda272f0ed02701cf83"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "49d0ce7e7872aa4acbf3490647226fca58cebdc9cfc1402614bbddc1444ab66a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/status.pw.toml"
+hash = "effc0e8e915aac2d9bacc5683286220ef43602fdacc7340248deb9861b75c9b4"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "3efc37cee37023a5eb4f1cbbfcb6f2bdd9b277e501ef53bf2b93f55aec55e978"
+metafile = true
