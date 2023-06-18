@@ -1,0 +1,13 @@
+name = "CozyTech SMP Server"
+author = "Konkers"
+version = "1.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c77a498b32ce18f7b88d48a44547eea9ac6c4adf49bb6351afea7b49f052a608"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
